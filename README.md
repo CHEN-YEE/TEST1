@@ -1,6 +1,6 @@
 # TEST1
 testing 123
 
-Hello world i am cool!
+Hello world!
 
-no, actually i am cooler
+Actually i am cool
